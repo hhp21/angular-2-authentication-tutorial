@@ -1,6 +1,6 @@
 # Daily Deals
 
-Daily Deals is an application built with Angular that shows how you can add token based authentication to your Angular applications. You can read the full tutorial for this project here: [Angular Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/).
+Daily Deals is an application built with Angular that shows how you can add token based authentication using the [Implicit flow](https://auth0.com/docs/flows/concepts/implicit) to your Angular applications. You can read the full tutorial for this project here: [Angular Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/).
 
 # Running the App
 
